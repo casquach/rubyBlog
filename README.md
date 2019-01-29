@@ -20,6 +20,8 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+  use command rails s to launch servers
+  open in chrome using localhost:3000
 
 * ...
 # rubyBlog
